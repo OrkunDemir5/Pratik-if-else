@@ -1,0 +1,14 @@
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\bin\Debug\net8.0\Pratik-If-Else.exe
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\bin\Debug\net8.0\Pratik-If-Else.deps.json
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\bin\Debug\net8.0\Pratik-If-Else.runtimeconfig.json
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\bin\Debug\net8.0\Pratik-If-Else.dll
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\bin\Debug\net8.0\Pratik-If-Else.pdb
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\Pratik-If-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\Pratik-If-Else.AssemblyInfoInputs.cache
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\Pratik-If-Else.AssemblyInfo.cs
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\Pratik-If-Else.csproj.CoreCompileInputs.cache
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\Pratik-If-Else.dll
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\refint\Pratik-If-Else.dll
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\Pratik-If-Else.pdb
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\Pratik-If-Else.genruntimeconfig.cache
+C:\Users\Orkun\source\repos\Pratik-If-Else\Pratik-If-Else\obj\Debug\net8.0\ref\Pratik-If-Else.dll
